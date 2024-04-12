@@ -1,0 +1,11 @@
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Communication/obj/Debug/net8.0/TodoList.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Communication/obj/Debug/net8.0/TodoList.Communication.AssemblyInfoInputs.cache
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Communication/obj/Debug/net8.0/TodoList.Communication.AssemblyInfo.cs
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Communication/obj/Debug/net8.0/TodoList.Communication.csproj.CoreCompileInputs.cache
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Communication/bin/Debug/net8.0/TodoList.Communication.deps.json
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Communication/bin/Debug/net8.0/TodoList.Communication.dll
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Communication/bin/Debug/net8.0/TodoList.Communication.pdb
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Communication/obj/Debug/net8.0/TodoList.Communication.dll
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Communication/obj/Debug/net8.0/refint/TodoList.Communication.dll
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Communication/obj/Debug/net8.0/TodoList.Communication.pdb
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Communication/obj/Debug/net8.0/ref/TodoList.Communication.dll

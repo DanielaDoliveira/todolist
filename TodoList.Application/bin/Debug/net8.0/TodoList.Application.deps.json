@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TodoList.Application/1.0.0": {
+        "dependencies": {
+          "TodoList.Communication": "1.0.0"
+        },
+        "runtime": {
+          "TodoList.Application.dll": {}
+        }
+      },
+      "TodoList.Communication/1.0.0": {
+        "runtime": {
+          "TodoList.Communication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TodoList.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TodoList.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
