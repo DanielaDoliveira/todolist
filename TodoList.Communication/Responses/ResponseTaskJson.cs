@@ -9,4 +9,5 @@ public class ResponseTaskJson
     public string Description { get; set; }
     public PriorityEnum Priority { get; set; }
     public StatusEnum Status { get; set; }
+    public DateTime LimitDate { get; set; }
 }

@@ -13,7 +13,9 @@ public class RegisterTaskUseCase
             Name = request.Name,
             Description = request.Description,
             Priority = request.Priority,
-            Status = request.Status
+            LimitDate = request.LimitDate,
+            Status = request.Status,
+
         };
     }
 }

@@ -13,3 +13,4 @@
 /Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Application/obj/Debug/net8.0/refint/TodoList.Application.dll
 /Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Application/obj/Debug/net8.0/TodoList.Application.pdb
 /Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Application/obj/Debug/net8.0/ref/TodoList.Application.dll
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Application/obj/Debug/net8.0/TodoList.Application.sourcelink.json

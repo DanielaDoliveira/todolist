@@ -35,3 +35,4 @@
 /Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Api/obj/Debug/net8.0/TodoList.Api.pdb
 /Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Api/obj/Debug/net8.0/TodoList.Api.genruntimeconfig.cache
 /Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Api/obj/Debug/net8.0/ref/TodoList.Api.dll
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/Rocketseat/TodoList/TodoList.Api/obj/Debug/net8.0/TodoList.Api.sourcelink.json

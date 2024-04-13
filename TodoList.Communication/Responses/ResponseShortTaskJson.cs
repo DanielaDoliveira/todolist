@@ -1,15 +1,13 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+
+
 using TodoList.Communication.Enums;
 
-namespace TodoList.Communication.Requests;
+namespace TodoList.Communication.Responses;
 
-public class RequestTaskJson
+public class ResponseShortTaskJson
 {
     public int Id { get; set; }
-    public string Name { get; set; }
+    public string Name { get; set; } = string.Empty;
     public string Description { get; set; }
     public PriorityEnum Priority { get; set; }
     public StatusEnum Status { get; set; }
